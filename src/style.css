@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulidisplay=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Muli", sans-serif;
+  margin: 0;
+  background-color: #3b3b98;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  overflow: hidden;
+  padding: 10px;
+  height: 100vh;
+  color: white;
+}
